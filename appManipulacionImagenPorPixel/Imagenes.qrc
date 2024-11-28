@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>pez2.jpg</file>
+        <file>Spiderman.png</file>
+        <file>pez.jpg</file>
+    </qresource>
+</RCC>

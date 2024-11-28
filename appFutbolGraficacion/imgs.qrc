@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/imgs"/>
+    <qresource prefix="/new/prefix1">
+        <file>R55f90e1f8250b515681bf9d160f4f6b7.png</file>
+        <file>depositphotos_109144654-stock-illustration-goalkeeper-catches-the-ball-football.png</file>
+        <file>estadio-deportivo-ilustracion-porteria-futbol_53562-5609.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>balon.png</file>
+        <file>estadio-deportivo-ilustracion-porteria-futbol_53562-5609.jpg</file>
+        <file>portero.png</file>
+    </qresource>
+</RCC>
